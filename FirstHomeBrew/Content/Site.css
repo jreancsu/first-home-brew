@@ -1,7 +1,6 @@
 ﻿body {
-    font-size: .85em;
     font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;
-    color: #232323;
+    color: #dedede;
     background-color: #34495e;
 }
 
@@ -11,6 +10,8 @@ header, footer, nav, section {
 
 .main-content-wrapper {
 	padding: 10px;
+	width: 90%;
+	margin: 0 auto;
 }
 
 
