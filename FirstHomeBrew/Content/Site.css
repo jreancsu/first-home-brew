@@ -2,12 +2,17 @@
     font-size: .85em;
     font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;
     color: #232323;
-    background-color: #fff;
+    background-color: #34495e;
 }
 
 header, footer, nav, section {
     display: block;
 }
+
+.main-content-wrapper {
+	padding: 10px;
+}
+
 
 
 /* Styles for basic forms
