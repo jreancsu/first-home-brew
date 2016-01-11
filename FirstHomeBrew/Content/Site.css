@@ -57,6 +57,11 @@ body {
 	top: 15px;
 }
 
+#mobileMenu .nav-item-icon {
+	display: none;
+}
+
+
 @media only screen and (max-width: 767px) {
 	.js #nav {
 		display:none;
@@ -77,10 +82,6 @@ body {
 	#nav {
 		position:relative;
 		padding-top:3.375em;
-	}
-
-	.nav-item-icon {
-		display: none;
 	}
 
 	.main {
