@@ -13,17 +13,17 @@ body {
 }
 
 #nav {
-		position:fixed;
-		text-transform:uppercase;
-		font-weight:600;
-		font-size:1.125em;
-		line-height: 2.4;
-		padding:1% 0;
-		background: #19334d;
-		z-index: 999;
-		top: 0;
-		right: 0;
-		left: 0;
+	position:fixed;
+	text-transform:uppercase;
+	font-weight:600;
+	font-size:1.125em;
+	line-height: 2.4;
+	padding:1% 0;
+	background: #19334d;
+	z-index: 999;
+	top: 0;
+	right: 0;
+	left: 0;
 }
 	
 #nav ul {
@@ -38,8 +38,8 @@ body {
 }
 
 #nav a {
-		color:#333333;
-		text-decoration:none;
+	color:#333333;
+	text-decoration:none;
 }
 	
 #nav a:hover {
