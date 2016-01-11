@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-	<title>@ViewBag.Title</title>
+	<title>First Home Brew - @ViewBag.Title</title>
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,400italic,700,700italic,300italic,300" rel="stylesheet" type="text/css">
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
@@ -23,12 +23,12 @@
 <div id="nav">
 	<ul id="menu">
 		<li class="nav-item-icon"><img src="~/Content/Images/beer-icon.png" alt="Beer Icon"/></li>
-		<li><a href="#">Home</a></li>
-		<li><a href="#">Preparation</a></li>
-		<li><a href="#">Brew Day</a></li>
-		<li><a href="#">Fermentation</a></li>
-		<li><a href="#">Bottling</a></li>
-		<li><a href="#">Equipment List</a></li>
+		<li><a href="@Url.Action("Index", "Home")">Home</a></li>
+		<li><a href="@Url.Action("Index", "Preparation")">Preparation</a></li>
+		<li><a href="@Url.Action("Index", "BrewDay")">Brew Day</a></li>
+		<li><a href="@Url.Action("Index", "Fermentation")">Fermentation</a></li>
+		<li><a href="@Url.Action("Index", "Bottling")">Bottling</a></li>
+		<li><a href="@Url.Action("Index", "Equipment")">Equipment List</a></li>
 	</ul>
 	<div class="clear"></div>
 </div>
