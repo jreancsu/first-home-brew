@@ -19,8 +19,7 @@ namespace FirstHomeBrew
 						"~/Scripts/jquery.validate*"));
 			
 			bundles.Add(new ScriptBundle("~/bundles/navigation").Include(
-						"~/Scripts/Navigation/responsive-nav.js",
-						"~/Scripts/Navigation/nav-init.js"));
+						"~/Scripts/Navigation/jquery.slicknav.js"));
 
 			// Use the development version of Modernizr to develop with and learn from. Then, when you're
 			// ready for production, use the build tool at http://modernizr.com to pick only the tests you need.
@@ -29,7 +28,7 @@ namespace FirstHomeBrew
 
 			bundles.Add(new StyleBundle("~/Content/css").Include(
 				"~/Content/Site.css",
-				"~/Content/NavigationMenu.css"));
+				"~/Content/slicknav.css"));
 
 			bundles.Add(new StyleBundle("~/Content/themes/base/css").Include(
 						"~/Content/themes/base/jquery.ui.core.css",
