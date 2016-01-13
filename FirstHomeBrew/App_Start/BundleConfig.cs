@@ -1,5 +1,4 @@
-﻿using System.Web;
-using System.Web.Optimization;
+﻿using System.Web.Optimization;
 
 namespace FirstHomeBrew
 {
@@ -19,7 +18,7 @@ namespace FirstHomeBrew
 
 			bundles.Add(new ScriptBundle("~/bundles/jqueryval")
 				.Include("~/Scripts/jquery.unobtrusive*",
-						"~/Scripts/jquery.validate*"));
+						 "~/Scripts/jquery.validate*"));
 			
 			bundles.Add(new ScriptBundle("~/bundles/navigation")
 				.Include("~/Scripts/Navigation/jquery.slicknav.js"));
@@ -31,10 +30,8 @@ namespace FirstHomeBrew
 
 			bundles.Add(new StyleBundle("~/Content/css")
 				.Include("~/Content/slicknav.css",
-				"~/Content/Site.css"));
-
-			bundles.Add(new StyleBundle("~/Content/bootstrap")
-				.Include("~/Content/bootstrap/bootstrap.css"));
+						 "~/Content/Site.css",
+						 "~/Content/bootstrap/bootstrap.css"));
 
 			bundles.Add(new StyleBundle("~/Content/themes/base/css").Include(
 						"~/Content/themes/base/jquery.ui.core.css",
