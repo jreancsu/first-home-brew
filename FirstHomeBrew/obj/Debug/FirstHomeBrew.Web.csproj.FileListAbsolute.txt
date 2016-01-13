@@ -43,3 +43,6 @@ C:\Development\Source\first-home-brew\FirstHomeBrew\bin\System.Web.WebPages.Razo
 C:\Development\Source\first-home-brew\FirstHomeBrew\obj\Debug\FirstHomeBrew.Web.csprojResolveAssemblyReference.cache
 C:\Development\Source\first-home-brew\FirstHomeBrew\obj\Debug\FirstHomeBrew.dll
 C:\Development\Source\first-home-brew\FirstHomeBrew\obj\Debug\FirstHomeBrew.pdb
+C:\Development\Source\first-home-brew\FirstHomeBrew\obj\Debug\FirstHomeBrew.Content.Resources.ProductImageLinks.resources
+C:\Development\Source\first-home-brew\FirstHomeBrew\obj\Debug\FirstHomeBrew.Web.csproj.GenerateResource.Cache
+C:\Development\Source\first-home-brew\FirstHomeBrew\obj\Debug\FirstHomeBrew.Content.Resources.ProductLinks.resources

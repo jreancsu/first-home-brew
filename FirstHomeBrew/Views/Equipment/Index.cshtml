@@ -1,6 +1,46 @@
-﻿@{
+﻿@using FirstHomeBrew.Content.Resources
+@{
     ViewBag.Title = "Equipment List";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 <h1>Equipment List</h1>
+<p>
+	I chose all of this equipment with an emphasis on quality, ease-of-use, and scalability. I want you to be able to step
+	your brewing game up after you learn the basics, but I don't want you to have to throw all of this stuff away. You should
+	be able to use all of this equipment in the future, even when your brewing skills progress.
+</p>
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-4">
+			<h2>Carboy</h2>
+			<p>
+				@Html.Raw(ProductImageLinks.Carboy) <br />
+				The <strong><a rel="nofollow" target="_blank" href="@Html.Raw(ProductLinks.Carboy)">Big Mouth Bubbler 6.5 gallon plastic carboy</a></strong>
+				is a solid choice for several reasons. Cleaning your equipment is time consuming, and this carboy has a
+				really wide neck to get stuff in and out with ease. It's also made out of PET plastic instead of glass, so it's
+				safer to handle. Do me a favor and perform a Google Images search for "broken carboy." Now, tell
+				me you're not afraid of doing that to yourself! The lid has a perfectly-sized hole for the airlock.
+			</p>
+		</div>
+		<div class="col-md-4">
+			<h2>Brew Pot</h2>
+			<p>
+				@Html.Raw(ProductImageLinks.BrewPot) <br/>
+				<strong><a rel="nofollow" target="_blank" href="@Html.Raw(ProductLinks.BrewPot)">HomeBrewStuff's 32 quart pot with bazooka screen</a></strong>
+				will make your life easier. It has a built-in spigot to make transferring your wort to your carboy easier and less susceptible
+				to contamination. 32 quart = 8 gallons, which is plenty big for a 5 gallon brew (you definitely want some extra room).
+			</p>
+		</div>
+		<div class="col-md-4">
+			<h2>Propane Burner</h2>
+			<p>
+				@Html.Raw(ProductImageLinks.Burner) <br />
+				The <strong><a rel="nofollow" target="_blank" href="@Html.Raw(ProductLinks.Burner)">Darkstar 2.0 propane burner</a></strong>
+				will bring your wort to a boil very quickly. It has a nice wind guard so that you can brew outside. Trust me, your wife/girlfriend/parents/whoever
+				will want you to brew outdoors. It also has an adjustable regulator so that you can control the strength of your flame, and thus, you won't
+				burn up your wort.  Finally, it's wide enough and powerful enough for you to use on larger brews in the future (up to 20 gallons).
+			</p>
+		</div>
+	</div>
+</div>
