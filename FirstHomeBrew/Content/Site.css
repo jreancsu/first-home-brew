@@ -10,6 +10,10 @@ body {
 .main {
 	margin-top: 7%;
 	padding: 10px;
+	background-image: url("./Images/beer-background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 #nav {

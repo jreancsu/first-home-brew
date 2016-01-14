@@ -48,7 +48,18 @@
 			prependTo: '#mobileMenu',
 			label: ''
 		});
+
+		setMinHeightOfMainContent();
 	});
+
+	window.onresize = function() {
+		setMinHeightOfMainContent();
+	}
+
+	function setMinHeightOfMainContent() {
+		var viewportHeight = $(window).height();
+		$('.main').css({ 'min-height': viewportHeight });
+	}
 </script>
 </body>
 </html>

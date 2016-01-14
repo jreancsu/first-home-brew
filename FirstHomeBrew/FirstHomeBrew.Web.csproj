@@ -178,6 +178,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap\bootstrap.css" />
+    <Content Include="Content\Images\beer-background.jpg" />
     <Content Include="Content\Images\beer-icon.png" />
     <Content Include="Content\Images\hamburger-retina.gif" />
     <Content Include="Content\Images\hamburger.gif" />
