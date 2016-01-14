@@ -58,7 +58,10 @@
 
 	function setMinHeightOfMainContent() {
 		var viewportHeight = $(window).height();
-		$('.main').css({ 'min-height': viewportHeight });
+		$('.main').css({
+			'min-height': viewportHeight,
+			'background-size': 'auto ' + viewportHeight
+		});
 	}
 </script>
 </body>
