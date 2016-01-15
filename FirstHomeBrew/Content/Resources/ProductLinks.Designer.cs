@@ -61,6 +61,24 @@ namespace FirstHomeBrew.Content.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to http://www.amazon.com/gp/product/B00A6TRKO4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00A6TRKO4&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=ZJR3NPR44HVFIDPK.
+        /// </summary>
+        public static string Airlock {
+            get {
+                return ResourceManager.GetString("Airlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to http://www.amazon.com/gp/product/B000E62H8I/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000E62H8I&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=FPTBVXJINKKGMXZM.
+        /// </summary>
+        public static string BottlingBucket {
+            get {
+                return ResourceManager.GetString("BottlingBucket", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to http://www.amazon.com/gp/product/B005I5FO8K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B005I5FO8K&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=HJW5CVMNKF22B6B3.
         /// </summary>
         public static string BrewPot {
@@ -84,6 +102,15 @@ namespace FirstHomeBrew.Content.Resources {
         public static string Carboy {
             get {
                 return ResourceManager.GetString("Carboy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to http://www.amazon.com/gp/product/B0064ODELI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0064ODELI&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=H7Z3P76KEW3PLQOC.
+        /// </summary>
+        public static string Siphon {
+            get {
+                return ResourceManager.GetString("Siphon", resourceCulture);
             }
         }
     }
