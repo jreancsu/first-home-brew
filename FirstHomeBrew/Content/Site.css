@@ -12,7 +12,8 @@ body {
 	padding: 10px;
 	background-image: url("./Images/beer-background.jpg");
     background-repeat: no-repeat;
-    background-attachment: fixed;
+	background-attachment: fixed;
+	background-size: cover;
 	font-weight: 500;
 }
 
