@@ -178,10 +178,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap\bootstrap.css" />
+    <Content Include="Content\Images\beer-background-mobile.jpg" />
     <Content Include="Content\Images\beer-background.jpg" />
     <Content Include="Content\Images\beer-icon.png" />
-    <Content Include="Content\Images\hamburger-retina.gif" />
-    <Content Include="Content\Images\hamburger.gif" />
     <Content Include="Content\Resources\Source\ImageLinks\BrewPot.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\Burner.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\Carboy.txt" />

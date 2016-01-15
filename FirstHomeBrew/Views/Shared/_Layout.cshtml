@@ -50,11 +50,8 @@
 		});
 
 		setMinHeightOfMainContent();
+		$(window).resize(setMinHeightOfMainContent);
 	});
-
-	window.onresize = function() {
-		setMinHeightOfMainContent();
-	}
 
 	function setMinHeightOfMainContent() {
 		var viewportHeight = $(window).height();
@@ -62,7 +59,7 @@
 			'min-height': viewportHeight,
 			'background-size': 'auto ' + viewportHeight
 		});
-	}
+	};
 </script>
 </body>
 </html>

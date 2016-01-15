@@ -1,6 +1,6 @@
 ﻿html {
 	font-family: 'Roboto Condensed', sans-serif;
-	font-size: 1.25em;
+	font-size: 1.55em;
 }
 
 body {
@@ -8,11 +8,12 @@ body {
 }
 
 .main {
-	margin-top: 6%;
+	margin-top: 6.5%;
 	padding: 10px;
 	background-image: url("./Images/beer-background.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
+	font-weight: 500;
 }
 
 #nav {
@@ -62,7 +63,11 @@ body {
 }
 
 
-@media screen and (max-width: 60em) {
+@media screen and (max-width: 75em) {
+	html {
+		font-size: 1.25em;
+	}
+
 	.js #nav {
 		display:none;
 	}
@@ -85,7 +90,8 @@ body {
 	}
 
 	.main {
-		margin-top: 7%;
+		margin-top: 3%;
+		background-image: url("./Images/beer-background-mobile.jpg");
 	}
 }
 
