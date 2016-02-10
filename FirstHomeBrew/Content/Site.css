@@ -14,7 +14,6 @@ body {
     background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
-	background-color: #19334d;
 }
 
 .main {
@@ -98,7 +97,6 @@ body {
 
 	.main {
 		margin-top: 3%;
-		/*background-image: url("./Images/beer-background-mobile.jpg");*/
 	}
 }
 
