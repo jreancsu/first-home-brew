@@ -1,4 +1,4 @@
-﻿html, body {
+﻿html, body, .main {
 	height: 100%;
 }
 
@@ -9,17 +9,17 @@ html {
 
 body {
 	margin: 0;
-}
-
-.main {
-	margin-top: 6.5%;
-	padding: 10px;
 	background-image: url("./Images/beer-background.jpg");
 	background-position: center center;
     background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
 	background-color: #19334d;
+}
+
+.main {
+	margin-top: 6.5%;
+	padding: 10px;
 	font-weight: 500;
 }
 
