@@ -11,9 +11,11 @@ body {
 	margin-top: 6.5%;
 	padding: 10px;
 	background-image: url("./Images/beer-background.jpg");
+	background-position: center center;
     background-repeat: no-repeat;
 	background-attachment: fixed;
-	/*background-size: cover;*/
+	background-size: cover;
+	background-color: #19334d;
 	font-weight: 500;
 }
 
