@@ -181,6 +181,7 @@
     <Content Include="Content\Images\beer-background-mobile.jpg" />
     <Content Include="Content\Images\beer-background.jpg" />
     <Content Include="Content\Images\beer-icon.png" />
+    <Content Include="Content\Images\favicon.ico" />
     <Content Include="Content\Resources\Source\ImageLinks\Airlock.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\BottlingBucket.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\BrewPot.txt" />
