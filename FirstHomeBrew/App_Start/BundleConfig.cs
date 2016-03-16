@@ -21,17 +21,22 @@ namespace FirstHomeBrew
 						 "~/Scripts/jquery.validate*"));
 			
 			bundles.Add(new ScriptBundle("~/bundles/navigation")
-				.Include("~/Scripts/Navigation/jquery.slicknav.js"));
+				.Include("~/Scripts/Navigation/jquery.slicknav.js",
+                         "~/Scripts/Navigation/navigation.js"));
 
-			// Use the development version of Modernizr to develop with and learn from. Then, when you're
-			// ready for production, use the build tool at http://modernizr.com to pick only the tests you need.
-			bundles.Add(new ScriptBundle("~/bundles/modernizr")
+            bundles.Add(new ScriptBundle("~/bundles/carousel")
+                .Include("~/Scripts/Carousel/carousel.js"));
+
+            // Use the development version of Modernizr to develop with and learn from. Then, when you're
+            // ready for production, use the build tool at http://modernizr.com to pick only the tests you need.
+            bundles.Add(new ScriptBundle("~/bundles/modernizr")
 				.Include("~/Scripts/modernizr-*"));
 
 			bundles.Add(new StyleBundle("~/Content/css")
 				.Include("~/Content/slicknav.css",
 						 "~/Content/Site.css",
-						 "~/Content/bootstrap/bootstrap.css"));
+						 "~/Content/bootstrap/bootstrap.css",
+                         "~/Content/slick-carousel/slick-theme.css"));
 
 			bundles.Add(new StyleBundle("~/Content/themes/base/css").Include(
 						"~/Content/themes/base/jquery.ui.core.css",

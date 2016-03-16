@@ -21,6 +21,7 @@
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
     <ApplicationInsightsResourceId>/subscriptions/34a88347-e037-4cce-bccc-aedd2ff05ac8/resourcegroups/Default/providers/microsoft.insights/components/firsthomebrew</ApplicationInsightsResourceId>
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -195,6 +196,10 @@
     <Content Include="Content\Resources\Source\Links\Burner.txt" />
     <Content Include="Content\Resources\Source\Links\Carboy.txt" />
     <Content Include="Content\Resources\Source\Links\Siphon.txt" />
+    <Content Include="Content\slick-carousel\ajax-loader.gif" />
+    <Content Include="Content\slick-carousel\slick-theme.css" />
+    <Content Include="Content\slick-carousel\slick.css" />
+    <Content Include="Content\slick-carousel\slick.js" />
     <Content Include="Content\slicknav.css" />
     <Content Include="Content\themes\base\accordion.css" />
     <Content Include="Content\themes\base\all.css" />
@@ -236,8 +241,14 @@
     </Content>
     <Content Include="Scripts\ai.0.15.0-build58334.js" />
     <Content Include="Scripts\ai.0.15.0-build58334.min.js" />
+    <Content Include="Content\slick-carousel\config.rb" />
+    <Content Include="Content\slick-carousel\slick-theme.less" />
+    <Content Include="Content\slick-carousel\slick-theme.scss" />
+    <Content Include="Content\slick-carousel\slick.less" />
+    <Content Include="Content\slick-carousel\slick.scss" />
     <None Include="Scripts\jquery-2.2.0.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\Carousel\carousel.js" />
     <Content Include="Scripts\jquery-2.2.0.js" />
     <Content Include="Scripts\jquery-2.2.0.min.js" />
     <Content Include="Scripts\jquery-2.2.0.min.map" />
@@ -254,6 +265,7 @@
     <Content Include="Scripts\knockout-2.2.0.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\Navigation\jquery.slicknav.js" />
+    <Content Include="Scripts\Navigation\navigation.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
@@ -275,6 +287,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Content\slick-carousel\fonts\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>

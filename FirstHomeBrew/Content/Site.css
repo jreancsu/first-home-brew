@@ -14,13 +14,13 @@ body {
     background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
-	background-color: #ffd11a;
+	background-color: #ffd633;
 }
 
 .main {
 	margin-top: 6.5%;
-	padding: 10px;
 	font-weight: 500;
+    padding: 15px;
 }
 
 #nav {
@@ -83,6 +83,10 @@ body {
 .mobile-nav-header {
 	color: white;
 	font-size: 0.9em;
+}
+
+.slick-carousel {
+    margin: 0 5% 0 5%;
 }
 
 @media screen and (max-width: 75em) {
