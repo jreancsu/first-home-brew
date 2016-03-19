@@ -35,8 +35,7 @@ namespace FirstHomeBrew
 			bundles.Add(new StyleBundle("~/Content/css")
 				.Include("~/Content/slicknav.css",
 						 "~/Content/Site.css",
-						 "~/Content/bootstrap/bootstrap.css",
-                         "~/Content/slick-carousel/slick-theme.css"));
+						 "~/Content/bootstrap/bootstrap.css"));
 
 			bundles.Add(new StyleBundle("~/Content/themes/base/css").Include(
 						"~/Content/themes/base/jquery.ui.core.css",

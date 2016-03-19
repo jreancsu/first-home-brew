@@ -198,7 +198,7 @@
     <Content Include="Content\Resources\Source\Links\Siphon.txt" />
     <Content Include="Content\slick-carousel\ajax-loader.gif" />
     <Content Include="Content\slick-carousel\fonts\slick.svg" />
-    <Content Include="Content\slick-carousel\slick-theme.css" />
+    <Content Include="Content\slick-carousel\slick-theme.min.css" />
     <Content Include="Content\slicknav.css" />
     <Content Include="Content\themes\base\accordion.css" />
     <Content Include="Content\themes\base\all.css" />
