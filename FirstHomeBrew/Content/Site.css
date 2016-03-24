@@ -20,7 +20,7 @@ body {
 .main {
 	margin-top: 6.5%;
 	font-weight: 500;
-    padding: 15px;
+    padding: 0 2% 0 2%;
 }
 
 #nav {
@@ -96,7 +96,6 @@ body {
 
 .standalone-img {
     height: 640px;
-    margin-left: 5%
 }
 
 

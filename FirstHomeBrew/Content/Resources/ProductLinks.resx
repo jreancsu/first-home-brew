@@ -140,30 +140,30 @@
     <value>Source\Links\Capper.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="BottleFiller" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Source\ImageLinks\BottleFiller.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    <value>Source\Links\BottleFiller.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="BottleDryingRack" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Source\ImageLinks\BottleDryingRack.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    <value>Source\Links\BottleDryingRack.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="Hydrometer" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Source\ImageLinks\Hydrometer.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    <value>Source\Links\Hydrometer.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="PlasticTubing" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Source\ImageLinks\PlasticTubing.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    <value>Source\Links\PlasticTubing.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="SiliconeTubing" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Source\ImageLinks\SiliconeTubing.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    <value>Source\Links\SiliconeTubing.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="StarSan" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Source\ImageLinks\StarSan.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    <value>Source\Links\StarSan.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="OxiClean" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Source\ImageLinks\OxiClean.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    <value>Source\Links\OxiClean.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="FoodThermometer" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Source\ImageLinks\FoodThermometer.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    <value>Source\Links\FoodThermometer.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="IngredientsKit" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Source\ImageLinks\IngredientsKit.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    <value>Source\Links\IngredientsKit.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
 </root>
