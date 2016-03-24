@@ -61,7 +61,7 @@ namespace FirstHomeBrew.Content.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B00A6TRKO4/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00A6TRKO4&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=2SVYZVGGVZGLDZH3&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B00A6TRKO4&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B00A6TRKO4&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; styl [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to &lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://www.amazon.com/gp/product/B00A6TRKO4/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00A6TRKO4&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=2SVYZVGGVZGLDZH3&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B00A6TRKO4&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B00A6TRKO4&quot; width=&quot;1&quot; height=&quot;1&quot; border [rest of string was truncated]&quot;;.
         /// </summary>
         public static string Airlock {
             get {
@@ -70,7 +70,7 @@ namespace FirstHomeBrew.Content.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;a  href=&quot;http://www.amazon.com/gp/product/B00DDFGRVU/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00DDFGRVU&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=MXR45EHUIC5OCPWC&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B00DDFGRVU&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B00DDFGRVU&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to &lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://www.amazon.com/gp/product/B00DDFGRVU/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00DDFGRVU&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=MXR45EHUIC5OCPWC&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B00DDFGRVU&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B00DDFGRVU&quot; width=&quot;1&quot; height=&quot;1&quot; border [rest of string was truncated]&quot;;.
         /// </summary>
         public static string BottleDryingRack {
             get {
@@ -79,7 +79,7 @@ namespace FirstHomeBrew.Content.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;a  href=&quot;http://www.amazon.com/gp/product/B00838VPHS/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00838VPHS&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=AVFUDUSBMXBG7KZG&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B00838VPHS&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B00838VPHS&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to &lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://www.amazon.com/gp/product/B00838VPHS/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00838VPHS&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=AVFUDUSBMXBG7KZG&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B00838VPHS&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B00838VPHS&quot; width=&quot;1&quot; height=&quot;1&quot; border [rest of string was truncated]&quot;;.
         /// </summary>
         public static string BottleFiller {
             get {
@@ -88,7 +88,7 @@ namespace FirstHomeBrew.Content.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B0064OPP0Q/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0064OPP0Q&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=LXX7HYJ7NQ5SVO2N&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B0064OPP0Q&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B0064OPP0Q&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; styl [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to &lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://www.amazon.com/gp/product/B0064OPP0Q/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0064OPP0Q&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=LXX7HYJ7NQ5SVO2N&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B0064OPP0Q&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B0064OPP0Q&quot; width=&quot;1&quot; height=&quot;1&quot; border [rest of string was truncated]&quot;;.
         /// </summary>
         public static string BottlingBucket {
             get {
@@ -106,7 +106,7 @@ namespace FirstHomeBrew.Content.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;a rel=&apos;nofollow&apos; target=&quot;_blank&quot; href =&apos;http://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;index=aps&amp;keywords=B00W3PVGR6&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=W7IEONMH32CPUNGX&apos;&gt;&lt;img src=&apos;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B00W3PVGR6&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&apos; border=&apos;0&apos; /&gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to &lt;a rel=&quot;nofollow&quot; target=&quot;_blank&quot; href =&apos;http://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;index=aps&amp;keywords=B00W3PVGR6&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=W7IEONMH32CPUNGX&apos;&gt;&lt;img src=&apos;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B00W3PVGR6&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&apos; border=&apos;0&apos; /&gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt [rest of string was truncated]&quot;;.
         /// </summary>
         public static string Burner {
             get {
@@ -115,7 +115,7 @@ namespace FirstHomeBrew.Content.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;a  href=&quot;http://www.amazon.com/gp/product/B001D6KGTK/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B001D6KGTK&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=HTDOP2U7DUETF3YZ&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B001D6KGTK&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B001D6KGTK&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to &lt;a target=&quot;_blank&quot; rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B001D6KGTK/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B001D6KGTK&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=HTDOP2U7DUETF3YZ&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B001D6KGTK&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B001D6KGTK&quot; width=&quot;1&quot; height=&quot;1&quot; border [rest of string was truncated]&quot;;.
         /// </summary>
         public static string Capper {
             get {
@@ -133,7 +133,16 @@ namespace FirstHomeBrew.Content.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;a  href=&quot;http://www.amazon.com/gp/product/B008S0KNZG/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B008S0KNZG&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=S3Y4NA65KTKKEOVI&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B008S0KNZG&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B008S0KNZG&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to &lt;a target=&quot;_blank&quot; rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B01B44ISWC/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B01B44ISWC&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=3VGFYNWC22SQRW6U&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B01B44ISWC&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B01B44ISWC&quot; width=&quot;1&quot; height=&quot;1&quot; border [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string FoodThermometer {
+            get {
+                return ResourceManager.GetString("FoodThermometer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;a rel&quot;nofollow&quot; target=&quot;_blank&quot; href=&quot;http://www.amazon.com/gp/product/B008S0KNZG/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B008S0KNZG&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=S3Y4NA65KTKKEOVI&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B008S0KNZG&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B008S0KNZG&quot; width=&quot;1&quot; height=&quot;1&quot; border= [rest of string was truncated]&quot;;.
         /// </summary>
         public static string Hydrometer {
             get {
@@ -142,11 +151,56 @@ namespace FirstHomeBrew.Content.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B0064ODELI/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0064ODELI&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=LKDTOLLSBR5NPBIB&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B0064ODELI&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B0064ODELI&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; styl [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to &lt;a target=&quot;_blank&quot; rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B00AC73NJG/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00AC73NJG&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=HR6FRPQEITWLG3KX&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B00AC73NJG&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B00AC73NJG&quot; width=&quot;1&quot; height=&quot;1&quot; border [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string IngredientsKit {
+            get {
+                return ResourceManager.GetString("IngredientsKit", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;a target=&quot;_blank&quot; rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B005GI8UPI/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B005GI8UPI&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=3CGMJOPGWVYZCNFJ&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B005GI8UPI&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B005GI8UPI&quot; width=&quot;1&quot; height=&quot;1&quot; border [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string OxiClean {
+            get {
+                return ResourceManager.GetString("OxiClean", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;a target=&quot;_blank&quot; rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B000E62TCC/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000E62TCC&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=MWSB3VX6F5XYLSYU&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B000E62TCC&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B000E62TCC&quot; width=&quot;1&quot; height=&quot;1&quot; border [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string PlasticTubing {
+            get {
+                return ResourceManager.GetString("PlasticTubing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;a target=&quot;_blank&quot; rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B000FOV0MS/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000FOV0MS&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=QJ24ZCTENLJI2V65&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B000FOV0MS&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B000FOV0MS&quot; width=&quot;1&quot; height=&quot;1&quot; border [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string SiliconeTubing {
+            get {
+                return ResourceManager.GetString("SiliconeTubing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;a target=&quot;_blank&quot; rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B0064ODELI/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0064ODELI&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=LKDTOLLSBR5NPBIB&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B0064ODELI&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B0064ODELI&quot; width=&quot;1&quot; height=&quot;1&quot; border [rest of string was truncated]&quot;;.
         /// </summary>
         public static string Siphon {
             get {
                 return ResourceManager.GetString("Siphon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;a target=&quot;_blank&quot; rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B0064O7YFA/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0064O7YFA&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=ODHGDWYTUUDYBJBM&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B0064O7YFA&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B0064O7YFA&quot; width=&quot;1&quot; height=&quot;1&quot; border [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string StarSan {
+            get {
+                return ResourceManager.GetString("StarSan", resourceCulture);
             }
         }
     }

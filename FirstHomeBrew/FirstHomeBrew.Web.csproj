@@ -156,6 +156,11 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Content\Resources\ProductImageLinks.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProductImageLinks.resx</DependentUpon>
+    </Compile>
     <Compile Include="Content\Resources\ProductLinks.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -169,11 +174,6 @@
     <Compile Include="Controllers\PreparationController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
-    </Compile>
-    <Compile Include="Content\Resources\ProductImageLinks.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>ProductImageLinks.resx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -192,8 +192,14 @@
     <Content Include="Content\Resources\Source\ImageLinks\Capper.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\Carboy.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\BottleDryingRack.txt" />
+    <Content Include="Content\Resources\Source\ImageLinks\FoodThermometer.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\Hydrometer.txt" />
+    <Content Include="Content\Resources\Source\ImageLinks\IngredientsKit.txt" />
+    <Content Include="Content\Resources\Source\ImageLinks\OxiClean.txt" />
+    <Content Include="Content\Resources\Source\ImageLinks\PlasticTubing.txt" />
+    <Content Include="Content\Resources\Source\ImageLinks\SiliconeTubing.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\Siphon.txt" />
+    <Content Include="Content\Resources\Source\ImageLinks\StarSan.txt" />
     <Content Include="Content\Resources\Source\Links\Airlock.txt" />
     <Content Include="Content\Resources\Source\Links\BottleFiller.txt" />
     <Content Include="Content\Resources\Source\Links\BottlingBucket.txt" />
@@ -202,8 +208,14 @@
     <Content Include="Content\Resources\Source\Links\Capper.txt" />
     <Content Include="Content\Resources\Source\Links\Carboy.txt" />
     <Content Include="Content\Resources\Source\Links\BottleDryingRack.txt" />
+    <Content Include="Content\Resources\Source\Links\FoodThermometer.txt" />
     <Content Include="Content\Resources\Source\Links\Hydrometer.txt" />
+    <Content Include="Content\Resources\Source\Links\IngredientsKit.txt" />
+    <Content Include="Content\Resources\Source\Links\OxiClean.txt" />
+    <Content Include="Content\Resources\Source\Links\PlasticTubing.txt" />
+    <Content Include="Content\Resources\Source\Links\SiliconeTubing.txt" />
     <Content Include="Content\Resources\Source\Links\Siphon.txt" />
+    <Content Include="Content\Resources\Source\Links\StarSan.txt" />
     <Content Include="Content\slick-carousel\ajax-loader.gif" />
     <Content Include="Content\slick-carousel\fonts\slick.svg" />
     <Content Include="Content\slick-carousel\slick-theme.min.css" />
