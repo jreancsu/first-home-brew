@@ -1,0 +1,16 @@
+##don't ignore myself!
+!.gitignore
+
+/.git
+/*.suo
+/.vs/*
+
+# Build Folders
+obj/
+
+# User-specific files
+*.user
+
+# SQL Server files  
+App_Data/*.mdf
+App_Data/*.ldf
