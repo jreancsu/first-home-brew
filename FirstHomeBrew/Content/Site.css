@@ -20,7 +20,7 @@ body {
 .main {
 	margin-top: 6.5%;
 	font-weight: 500;
-    padding: 0 2% 0 2%;
+    padding: 2% 2% 0 2%;
 }
 
 #nav {
@@ -85,10 +85,6 @@ body {
 	font-size: 0.9em;
 }
 
-.slick-carousel {
-    margin: 0 5% 0 5%;
-}
-
 .slick-carousel img {
     display: none;
     padding: 0 5px 0 5px;
@@ -129,9 +125,13 @@ body {
 		margin-top: 3%;
 	}
 
+    .slick-carousel {
+        margin: 0 5% 0 5%;
+    }
+
     .standalone-img {
-        height: 340px;
-        margin-left: 5%
+        height: 450px;
+        margin-left: 5%;
     }
 }
 
