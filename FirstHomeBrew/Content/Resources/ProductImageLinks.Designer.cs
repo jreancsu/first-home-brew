@@ -178,6 +178,15 @@ namespace FirstHomeBrew.Content.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to &lt;a target=&quot;_blank&quot; rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B008LX6OC6/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B008LX6OC6&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=UTG5E5OJR3WA7NA4&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B008LX6OC6&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B008LX6OC6&quot; width=&quot;1&quot; height=&quot;1&quot; border [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string Roomba {
+            get {
+                return ResourceManager.GetString("Roomba", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to &lt;a target=&quot;_blank&quot; rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B000FOV0MS/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000FOV0MS&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=QJ24ZCTENLJI2V65&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B000FOV0MS&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B000FOV0MS&quot; width=&quot;1&quot; height=&quot;1&quot; border [rest of string was truncated]&quot;;.
         /// </summary>
         public static string SiliconeTubing {
