@@ -197,7 +197,6 @@
     <Content Include="Content\Resources\Source\ImageLinks\IngredientsKit.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\OxiClean.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\PlasticTubing.txt" />
-    <Content Include="Content\Resources\Source\ImageLinks\Roomba.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\SiliconeTubing.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\Siphon.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\StarSan.txt" />
