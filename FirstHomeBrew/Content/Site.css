@@ -88,9 +88,8 @@ body {
 /**/
 
 /*Slick Carousel*/
-.slick-carousel img {
-    display: none;
-    padding: 0 5px 0 5px;
+.fhb-slide-wrapper {
+	padding: 5px;
 }
 
 .standalone-img {
@@ -136,7 +135,7 @@ body {
 	}
 
     .slick-carousel {
-        margin: 0 8% 0 8%;
+        margin: 0 5% 0 5%;
     }
 
     .standalone-img {
