@@ -17,14 +17,14 @@ window.onload = function () {
             }
         },
         {
-            breakpoint: 1640,
+            breakpoint: 1800,
             settings: {
                 slidesToShow: 3,
                 slidesToScroll: 3
             }
         },
         {
-            breakpoint: 1275,
+            breakpoint: 1400,
             settings: {
                 slidesToShow: 2,
                 slidesToScroll: 2

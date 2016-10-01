@@ -21,6 +21,7 @@ body {
 	margin-top: 6.5%;
 	font-weight: 500;
     padding: 2% 2% 0 2%;
+	width: 100%;
 }
 
 /*Navigation*/
@@ -85,15 +86,13 @@ body {
 	color: white;
 	font-size: 0.9em;
 }
-/**/
-
-/*Slick Carousel*/
-.fhb-slide-wrapper {
-	padding: 5px;
-}
 
 .standalone-img {
     height: 480px;
+}
+
+.slick-carousel-wrapper {
+    margin: 0 1% 0 2%;
 }
 
 /*Video Player*/
@@ -134,16 +133,16 @@ body {
 		margin-top: 3%;
 	}
 
-    .slick-carousel {
-        margin: 0 5% 0 5%;
-    }
-
     .standalone-img {
         margin-left: 5%;
     }
 
-	body {
-		overflow-x: hidden; /*can't figure why there is horizontal scrolling on mobile'*/
+	.slick-carousel-wrapper {
+		margin: 0 5% 0 8%;
+	}
+
+	.fhb-video-player {
+		height: 480px;
 	}
 }
 
