@@ -5,7 +5,7 @@ window.onload = function () {
     $('.slick-carousel').slick({
         infinite: true,
         lazyLoad: 'progressive', //Presumably this allows window.onload to fire after the first
-                                 //image finishes downloading.
+        adaptiveHeight: false,    //image finishes downloading.
         speed: 500,
         variableWidth: false,
         responsive: [
