@@ -31,7 +31,7 @@ window.onload = function () {
             }
         },
         {
-        	breakpoint: 975,
+        	breakpoint: 750,
         	settings: {
         		slidesToShow: 1,
         		slidesToScroll: 1

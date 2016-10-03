@@ -91,10 +91,6 @@ body {
     height: 480px;
 }
 
-.slick-carousel-wrapper {
-    margin: 0 2% 0 4%;
-}
-
 /*Video Player*/
 .fhb-video-player {
 	width: 90%;
@@ -134,7 +130,9 @@ body {
 	}
 
 	.slick-carousel-wrapper {
-		margin: 0 -3% 0 9%;
+		position: relative;
+		left: 7%;
+		width: 90%
 	}
 
 	.slick-carousel img {
