@@ -148,6 +148,13 @@ body {
 	.fhb-video-player {
 		height: 420px;
 	}
+	/*
+		I can't explain this one below at all.  On SOME phones, this style doesn't get applied.  It doesn't even show up
+		in the inspector as even getting included in the bundled CSS.  Perhaps it's an issue with the bundler?
+	*/
+	.slick-next, .slick-prev {
+		position: absolute;
+	}
 }
 
 .clear {
