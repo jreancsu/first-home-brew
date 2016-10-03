@@ -130,23 +130,23 @@ body {
 	}
 
 	.main {
-		margin-top: 3%;
+		padding: 5% 5% 0 5%;
 	}
 
-    .standalone-img {
-        margin-left: 5%;
-    }
-
 	.slick-carousel-wrapper {
-		margin: 0 0 0 8%;
+		margin: 0 -3% 0 9%;
 	}
 
 	.slick-carousel img {
-		max-height: 450px;
+		max-height: 400px;
+	}
+
+	.standalone-img {
+		max-height: 400px;
 	}
 
 	.fhb-video-player {
-		height: 480px;
+		height: 420px;
 	}
 }
 
