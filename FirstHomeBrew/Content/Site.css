@@ -71,12 +71,6 @@ body {
 	display: none;
 }
 
-.mobile-nav-header-wrapper {
-	position: fixed;
-	top: 0;
-	right: 0;
-	left: 0;
-}
 .mobile-nav-icon {
 	height: 50px;
 	width: 50px;
@@ -120,6 +114,22 @@ body {
 		z-index:1000;
 		top: 0;
 	}
+
+    #mobileMenu .title-wrapper {
+        transform: translate(15px, -42px);
+        font-family: 'Orbitron', sans-serif;
+        background-color: black;
+        color: white;
+        padding: 5px;
+        display: inline-block;
+    }
+
+    #mobileMenu .title-wrapper img {
+        height: 25px;
+        margin-right: 10px;
+        position: relative;
+        top: -1px;
+    }
 	
 	.js #nav {
 		text-align:center;

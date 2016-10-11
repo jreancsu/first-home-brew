@@ -1,6 +1,12 @@
 ﻿$(function() {
     $('#menu').slicknav({
         prependTo: '#mobileMenu',
-        label: ''
+        label: '',
+        beforeOpen: function() {
+            $('#mobileMenu .title-wrapper').hide();
+        },
+        afterClose: function() {
+            $('#mobileMenu .title-wrapper').show();
+        }
     });
 });
