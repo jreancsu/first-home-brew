@@ -91,11 +91,16 @@ body {
     height: 480px;
 }
 
+.slick-carousel-wrapper {
+	position: relative;
+	left: 1%;
+}
+
 /*Video Player*/
 .fhb-video-player {
 	width: 90%;
 	margin: 0 5% 0 5%;
-	height: 720px;
+	height: 550px;
 }
 
 /*Mobile Layout*/
@@ -144,7 +149,7 @@ body {
 	}
 
 	.fhb-video-player {
-		height: 420px;
+		height: 380px;
 	}
 	/*
 		I can't explain this one below at all.  On SOME phones, this style doesn't get applied.  It doesn't even show up

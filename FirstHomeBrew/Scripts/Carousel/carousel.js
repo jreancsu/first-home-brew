@@ -24,14 +24,14 @@ window.onload = function () {
             }
         },
         {
-            breakpoint: 1400,
+            breakpoint: 1300,
             settings: {
                 slidesToShow: 2,
                 slidesToScroll: 2
             }
         },
         {
-        	breakpoint: 750,
+        	breakpoint: 650,
         	settings: {
         		slidesToShow: 1,
         		slidesToScroll: 1
