@@ -133,6 +133,15 @@ namespace FirstHomeBrew.Content.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to &lt;a target=&quot;_blank&quot; rel=&quot;nofollow&quot; href=&quot;https://www.amazon.com/gp/product/B009CTP3YS/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B009CTP3YS&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=8f1f612292081840df7de52dfe6efb4d&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=US&amp;ASIN=B009CTP3YS&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL250_&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;//ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=am2&amp;o=1&amp;a=B009CTP3YS&quot; width=&quot;1&quot; height=&quot;1&quot; [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string CarboyThermometer {
+            get {
+                return ResourceManager.GetString("CarboyThermometer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to &lt;a target=&quot;_blank&quot; rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B01B44ISWC/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B01B44ISWC&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=3VGFYNWC22SQRW6U&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B01B44ISWC&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=as2&amp;o=1&amp;a=B01B44ISWC&quot; width=&quot;1&quot; height=&quot;1&quot; border [rest of string was truncated]&quot;;.
         /// </summary>
         public static string FoodThermometer {
@@ -156,6 +165,15 @@ namespace FirstHomeBrew.Content.Resources {
         public static string IngredientsKit {
             get {
                 return ResourceManager.GetString("IngredientsKit", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;a target=&quot;_blank&quot; rel=&quot;nofollow&quot; href=&quot;https://www.amazon.com/gp/product/B00837ZGRY/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00837ZGRY&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=1abd86241d6ec59103d904dc733cd50b&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=US&amp;ASIN=B00837ZGRY&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL250_&amp;tag=firhombre-20&quot; &gt;&lt;/a&gt;&lt;img src=&quot;//ir-na.amazon-adsystem.com/e/ir?t=firhombre-20&amp;l=am2&amp;o=1&amp;a=B00837ZGRY&quot; width=&quot;1&quot; height=&quot;1&quot; [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string LaserThermometer {
+            get {
+                return ResourceManager.GetString("LaserThermometer", resourceCulture);
             }
         }
         

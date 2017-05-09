@@ -192,9 +192,11 @@
     <Content Include="Content\Resources\Source\ImageLinks\Capper.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\Carboy.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\BottleDryingRack.txt" />
+    <Content Include="Content\Resources\Source\ImageLinks\CarboyThermometer.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\FoodThermometer.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\Hydrometer.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\IngredientsKit.txt" />
+    <Content Include="Content\Resources\Source\ImageLinks\LaserThermometer.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\OxiClean.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\PlasticTubing.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\SiliconeTubing.txt" />
@@ -208,9 +210,11 @@
     <Content Include="Content\Resources\Source\Links\Capper.txt" />
     <Content Include="Content\Resources\Source\Links\Carboy.txt" />
     <Content Include="Content\Resources\Source\Links\BottleDryingRack.txt" />
+    <Content Include="Content\Resources\Source\Links\CarboyThermometer.txt" />
     <Content Include="Content\Resources\Source\Links\FoodThermometer.txt" />
     <Content Include="Content\Resources\Source\Links\Hydrometer.txt" />
     <Content Include="Content\Resources\Source\Links\IngredientsKit.txt" />
+    <Content Include="Content\Resources\Source\Links\LaserThermometer.txt" />
     <Content Include="Content\Resources\Source\Links\OxiClean.txt" />
     <Content Include="Content\Resources\Source\Links\PlasticTubing.txt" />
     <Content Include="Content\Resources\Source\Links\SiliconeTubing.txt" />

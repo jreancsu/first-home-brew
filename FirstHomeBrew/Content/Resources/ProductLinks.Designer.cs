@@ -133,6 +133,15 @@ namespace FirstHomeBrew.Content.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to https://www.amazon.com/gp/product/B009CTP3YS/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B009CTP3YS&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=da12ea6a75aa1562dc904ce26bc43a78.
+        /// </summary>
+        public static string CarboyThermometer {
+            get {
+                return ResourceManager.GetString("CarboyThermometer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to http://www.amazon.com/gp/product/B01B44ISWC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B01B44ISWC&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=ZGD2HQI6UHIJ6FJN.
         /// </summary>
         public static string FoodThermometer {
@@ -156,6 +165,15 @@ namespace FirstHomeBrew.Content.Resources {
         public static string IngredientsKit {
             get {
                 return ResourceManager.GetString("IngredientsKit", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to https://www.amazon.com/gp/product/B00837ZGRY/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00837ZGRY&amp;linkCode=as2&amp;tag=firhombre-20&amp;linkId=1abd86241d6ec59103d904dc733cd50b.
+        /// </summary>
+        public static string LaserThermometer {
+            get {
+                return ResourceManager.GetString("LaserThermometer", resourceCulture);
             }
         }
         

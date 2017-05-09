@@ -1,4 +1,5 @@
-﻿@{
+﻿@using FirstHomeBrew.Content.Resources
+@{
     ViewBag.Title = "Fermentation";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
@@ -10,21 +11,39 @@
 	bubbling as soon as several hours after pitching the yeast, or take as long as several days. Don't fret if you don't see bubbles right away.
 	Different yeast and different conditions can affect how soon it takes for your airlock to start bubbling. From my experience, the primary
 	fermentation phase usually takes between 5 - 10 days. Once the bubbling stops completely, I usually wait another day or two before
-	considering primary fermentation complete. You're not going to hurt anything by waiting longer, and you don't want to kill fermenation early
-	because your gravity could suffer.
+	considering primary fermentation complete. You're not going to hurt anything by waiting a bit longer, and you don't want to kill fermenation early
+	because your final gravity could suffer.
 </p>
 <iframe class="fhb-video-player" src="https://drive.google.com/file/d/1KsshoF08e-bHOoSKNvaG9y2-jypVxr4q_g/preview"></iframe>
 
 <h2>Avoid light</h2>
 <p>
 	Exposing your beer to light can cause undesirable flavors. The easiest way to avoid light exposure is to just cover your carboy with
-	the box that it shipped in. If, for some reason, you do not have the box, a dark towel and some clothespins will work as well. Don't use
-	something super thick 
+    the box that it shipped in. If, for some reason, you do not have the box, a dark towel and some clothespins will work as well. Don't use anything
+    very thick because it can have insulating properties.  Fermentation generates heat.
 </p>
 
 <h2>Maintain the correct temperature</h2>
 <p>
-
+    Read the instructions in your ingredients kit for the exact fermentation temperature to use. For ales, the correct temperature will probably
+    be something just below what you would consider room temperature (68 - 72 &#8457;). If you want to go the cheaper route, you can use a
+    <a rel="nofollow" target="_blank" href="@Html.Raw(ProductLinks.CarboyThermometer)">carboy thermometer</a> to monitor the temperature of your wort.
+    Keep in mind that the temperature of the surface of the carboy might not be the same as the core temperature of the liquid. Also, to see the
+    carboy thermometer, you'll need to remove the cover from your carboy which exposes it to light. A
+    <a rel="nofollow" target="_blank" href="@Html.Raw(ProductLinks.LaserThermometer)">laser thermometer</a> can be used to check the temperature of the
+    liquid without needing to take your entire carboy cover off.  Plus, it doubles as pet entertainment.
 </p>
 
 <h2>Dry hopping</h2>
+<p>
+    "Dry hopping" is a process where you add dry hops to your wort after primary fermentation is complete. The purpose is to add additional hop flavors
+    and aromas to your beer. Hop flavors and aromas come mostly from volatile oils in the hops, which get boiled off relatively quickly. The bitterness
+    comes from the alpha acids in the hops which do not boil off. You can experiment with different amounts and types of hops to achieve you desired flavor.
+    Also, you may consider racking your wort to a secondary fermenter to perform dry-hopping (there are various theories on this).
+    <a href="https://byo.com/mead/item/569-dry-hopping-techniques">This article</a> goes into more detail on the subject.
+</p>
+
+<p>
+    Once you're satisfied that your wort has finished fermenting, then it's safe to call it "beer." Now, head on over to the
+    "<a href="@Url.Action("Index", "Bottling")">Bottling</a>" page to learn how to get some carbonation into your beer.
+</p>

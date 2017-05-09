@@ -122,19 +122,19 @@
     <value>Source\Links\Carboy.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="BrewPot" type="System.Resources.ResXFileRef, System.Windows.Forms">
-	  <value>Source\Links\BrewPot.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    <value>Source\Links\BrewPot.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="Burner" type="System.Resources.ResXFileRef, System.Windows.Forms">
-	  <value>Source\Links\Burner.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    <value>Source\Links\Burner.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="BottlingBucket" type="System.Resources.ResXFileRef, System.Windows.Forms">
-	  <value>Source\Links\BottlingBucket.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    <value>Source\Links\BottlingBucket.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="Siphon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-	  <value>Source\Links\Siphon.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    <value>Source\Links\Siphon.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="Airlock" type="System.Resources.ResXFileRef, System.Windows.Forms">
-	  <value>Source\Links\Airlock.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    <value>Source\Links\Airlock.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="Capper" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Source\Links\Capper.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
@@ -165,5 +165,11 @@
   </data>
   <data name="IngredientsKit" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Source\Links\IngredientsKit.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="CarboyThermometer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Source\Links\CarboyThermometer.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="LaserThermometer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Source\Links\LaserThermometer.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
 </root>
