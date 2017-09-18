@@ -184,6 +184,7 @@
     <Content Include="Content\Images\beer-icon-transparent.png" />
     <Content Include="Content\Images\beer-icon.png" />
     <Content Include="Content\Images\favicon.ico" />
+    <Content Include="Content\Images\stone_cold_beer_smash.jpg" />
     <Content Include="Content\Resources\Source\ImageLinks\Airlock.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\BottleFiller.txt" />
     <Content Include="Content\Resources\Source\ImageLinks\BottlingBucket.txt" />
